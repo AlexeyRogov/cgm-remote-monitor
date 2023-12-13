@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T12:21:04.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ax79MCrejsQj_LxLWKp1" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T12:38:34.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h50IOn61c51sS25CW0mj" version="22.1.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="756" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,8 +178,8 @@
         <mxCell id="1393" value="Ladybug" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1163.5" y="81.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1394" value="Butterfly" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1233.5" y="141.5" width="120" height="40" as="geometry" />
+        <mxCell id="1394" value="Вывоз строительного мусора" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1233.5" y="141.5" width="306.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1395" value="Готовность к приемке оборудования&lt;br&gt;август 2024 года" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1283.5" y="201.5" width="266.5" height="40" as="geometry" />
@@ -268,8 +268,8 @@
         <mxCell id="1411" value="Eagle" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1611" y="516.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1412" value="Pigeon" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1946" y="401.5" width="120" height="40" as="geometry" />
+        <mxCell id="1412" value="Стандарт рабочего места" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1946" y="401.5" width="234" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1413" value="Hawk" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1491" y="436.5" width="120" height="40" as="geometry" />
@@ -286,20 +286,20 @@
         <mxCell id="1417" value="Flamingo" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1766" y="166.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1418" value="Penguin" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1861" y="251.5" width="120" height="40" as="geometry" />
+        <mxCell id="1418" value="Разработка рабочих инструкций" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1861" y="251.5" width="269" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1419" value="Owl" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1419" value="Определение ККТ" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1916" y="321.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1420" value="Albatross" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1691" y="576.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1421" value="Pelican" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1781" y="506.5" width="120" height="40" as="geometry" />
+        <mxCell id="1421" value="Стандартизация и сертификация продукции" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1841.5" y="581.5" width="309" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1422" value="Swallow" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1876" y="461.5" width="120" height="40" as="geometry" />
+        <mxCell id="1422" value="Требования к боксу с отрабокованной&amp;nbsp;&lt;br&gt;металлоискателем продукции" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1876" y="461.5" width="264" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1423" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1411" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
@@ -508,7 +508,7 @@
         <mxCell id="1468" value="Видеонаблюдение" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1358.5" y="1274" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1469" value="Script Writing" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1469" value="ТБО" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1373.5" y="1346.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1470" value="Ascomycota" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -736,8 +736,8 @@
         <mxCell id="1521" value="Аутсорсинг:&lt;br&gt;-охрана&lt;br&gt;-клининг&lt;br&gt;-обслуживание&amp;nbsp;&lt;br&gt;оборудования" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="539.5" y="700" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1522" value="Pine" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="67" y="641.5" width="120" height="40" as="geometry" />
+        <mxCell id="1522" value="Раздевалки с&amp;nbsp;&lt;br&gt;разделением грязной и чистой зон&lt;br&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="640" width="227" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="1523" value="Lime" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="472" y="831.5" width="120" height="40" as="geometry" />
@@ -872,6 +872,18 @@
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="281" y="259.5" as="sourcePoint" />
             <mxPoint x="220" y="236.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="myj79j4eICTyC0yZNR4C-1558" value="Трансформаторы" style="whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="157" y="356.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="myj79j4eICTyC0yZNR4C-1559" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="216.52" y="359" as="sourcePoint" />
+            <mxPoint x="216.52" y="324" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216.52" y="327" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
