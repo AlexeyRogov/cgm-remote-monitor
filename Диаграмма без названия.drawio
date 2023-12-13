@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T12:38:34.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h50IOn61c51sS25CW0mj" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T14:15:13.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QSSWAcM9xhTifMQbXJn3" version="22.1.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1963" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="558.5" y="1171.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1357" value="Локальные поставщики&lt;br&gt;металла и нержавейки,&lt;br&gt;а также изделий из них" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="973.5" y="411.5" width="146.5" height="48.5" as="geometry" />
+          <mxGeometry x="977" y="428" width="146.5" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="1358" value="Данные по оборудованию" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="400" y="441.5" width="159.5" height="40" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="1372" value="Очистные сооружения" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="455" y="140" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1373" value="Хранилище муки" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1373" value="" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="600" y="140" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1374" value="Кондиционирование и&lt;br&gt;вентиляция" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -191,7 +191,7 @@
           <mxGeometry x="1280" y="331.5" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1398" value="Подрядные организации:&lt;br&gt;- Металлобработка&lt;br&gt;-Электрика и КИПиА&lt;br&gt;-Пуско-наладка и тд" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1238.5" y="401.5" width="161.5" height="128.5" as="geometry" />
+          <mxGeometry x="1212" y="397.25" width="161.5" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="1399" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1357" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
@@ -734,7 +734,7 @@
           <mxGeometry x="514.5" y="641.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1521" value="Аутсорсинг:&lt;br&gt;-охрана&lt;br&gt;-клининг&lt;br&gt;-обслуживание&amp;nbsp;&lt;br&gt;оборудования" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="539.5" y="700" width="120" height="100" as="geometry" />
+          <mxGeometry x="623.5" y="681.5" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1522" value="Раздевалки с&amp;nbsp;&lt;br&gt;разделением грязной и чистой зон&lt;br&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-40" y="640" width="227" height="41.5" as="geometry" />
