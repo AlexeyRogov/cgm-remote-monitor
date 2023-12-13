@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T08:46:37.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jASFPXaWV9zy-58u3caB" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T09:22:07.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fIc7-xg6a--IhdoA53jH" version="22.1.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2656" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1350" value="Mammal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1350" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Проектирование&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="523.5" y="271.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1351" value="Insect" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="1351" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Строительство&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1103.5" y="241.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1352" value="Bird" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1352" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Пищевая&lt;br&gt;безопасность&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1701" y="356.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1353" value="Fish" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1353" value="Сырье" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1936" y="806.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1354" value="Bacteria" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1354" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Производственный процесс&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1711" y="1171.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1355" value="Fungi" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" parent="1" vertex="1">
@@ -25,11 +25,11 @@
         <mxCell id="1356" value="Flower" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="558.5" y="1171.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1357" value="Ant" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="973.5" y="411.5" width="120" height="40" as="geometry" />
+        <mxCell id="1357" value="Локальные поставщики&lt;br&gt;металла и нержавейки,&lt;br&gt;а также изделий из них" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="973.5" y="411.5" width="146.5" height="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="1358" value="Dolphin" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="429.5" y="441.5" width="130" height="40" as="geometry" />
+        <mxCell id="1358" value="Данные по оборудованию" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="410" y="441.5" width="149.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1350" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="1375" value="Zebra" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="730" y="261.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1376" value="Gazelle" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1376" value="Локальные поставщики&lt;br&gt;оборудования" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="710" y="391.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1377" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" target="1376" edge="1">
@@ -157,8 +157,8 @@
             <mxPoint x="-121.5" y="56.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1388" value="Bee" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="913.5" y="341.5" width="120" height="40" as="geometry" />
+        <mxCell id="1388" value="Поставщики/Магазины:&lt;br&gt;&amp;nbsp;- строительных расходников&lt;br&gt;-электротехники&lt;br&gt;и тд&lt;br&gt;-" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="870" y="320" width="163.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1389" value="Hornet" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="903.5" y="271.5" width="120" height="40" as="geometry" />
@@ -187,8 +187,8 @@
         <mxCell id="1397" value="Spider" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1293.5" y="331.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1398" value="Bumblebee" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1238.5" y="401.5" width="120" height="40" as="geometry" />
+        <mxCell id="1398" value="Подрядные организации:&lt;br&gt;- Металлобработка&lt;br&gt;-Электрика и КИПиА&lt;br&gt;-Пуско-наладка и тд" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1238.5" y="401.5" width="161.5" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="1399" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1357" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
@@ -370,8 +370,8 @@
             <mxPoint x="131" y="106.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1435" value="Perch" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1781" y="766.5" width="120" height="40" as="geometry" />
+        <mxCell id="1435" value="Поставщики и форма поставки&lt;br&gt;сырья (налив, биг-бэг..)" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="766.5" width="191" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1436" value="Mackerel" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1811" y="696.5" width="120" height="40" as="geometry" />
@@ -382,7 +382,7 @@
         <mxCell id="1438" value="Shark" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2066" y="721.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1439" value="Whale" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1439" value="Данные по ресурсам" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="578.5" y="466.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1440" value="Bass" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -712,20 +712,20 @@
         <mxCell id="1514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=0;entryX=0.75;entryY=0;startArrow=none;startFill=0;endArrow=block;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#12aab5;strokeWidth=6;fontSize=20;fontColor=#2F5B7C;" parent="1" source="1414" target="1414" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1515" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;LIVING&lt;br&gt;BEINGS&lt;/font&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="1515" value="Производство" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="961" y="676.5" width="270" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="1516" value="Tree" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1516" value="Персонал" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="312" y="721.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1517" value="Organisation" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="202" y="621.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1518" value="Oak" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1518" value="Подбор сотрудников" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="309.5" y="561.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1519" value="Birch" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="449.5" y="571.5" width="120" height="40" as="geometry" />
+        <mxCell id="1519" value="Спецодежда" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="449.5" y="571.5" width="190.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1520" value="Silverfern" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="514.5" y="641.5" width="120" height="40" as="geometry" />
@@ -835,7 +835,7 @@
         <mxCell id="1542" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#736CA8;strokeWidth=2;fillColor=#64bbe2;fontSize=20;fontColor=#23445D;" parent="1" source="1529" target="1529" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="104TM-tIM6dC0J846HSY-1542" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" edge="1" parent="1" source="1350" target="1439">
+        <mxCell id="104TM-tIM6dC0J846HSY-1542" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" target="1439" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="561" y="392" as="sourcePoint" />
             <mxPoint x="506" y="477" as="targetPoint" />
